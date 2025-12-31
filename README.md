@@ -13,13 +13,16 @@ The program prints a table with all the tasks’ information and calculates **av
 
 ## Author
 
-- **Khaled Harkouz** – 
+- **Khaled Harkouz** –
+- KhaledHrkouz-dev/FCFS-Procress-Scheduler
 
 ## Author 
 
 - **@ Nessissen Mohamed Sedik** -
+- silvabarca31-sketch/FCFS-Procress-Scheduler
 
 ---
+
 
 
 
